@@ -1,0 +1,6 @@
+horas = input('quantas horas foram trabalhadas?')
+taxa = input('qual a taxa de hora trabalhada?')
+
+pagamento = int(horas)*float(taxa)
+
+print(pagamento)
