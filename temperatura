@@ -1,0 +1,4 @@
+F = float(input("Qual a temperatura em fahrenheit?"))
+C = ((F - 32) * 5) / 9
+
+print("Temperatura em celsius: %.2f" % C)
